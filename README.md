@@ -35,7 +35,7 @@
 #### - 🍕 Foodie ,
 
 #### - 💬 Wanna talk?<br>
-<img align="middle" src="https://discord.c99.nl/widget/theme-5/730615970074329142.png">
+<img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
 </p>
 
 
