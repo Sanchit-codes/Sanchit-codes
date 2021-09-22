@@ -3,19 +3,19 @@
 
 <br/>
 <a href="https://twitter.com/Sanchit68696170">
-  <img align="left" alt="Sanchit Jain| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Sanchit Jain| Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
 </a>
 <a href="https://t.me/SanchitCodes">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />
 </a>
 <a href="https://www.instagram.com/ig.phantom___/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://dsc.bio/Phantomxz">
-  <img align="left" alt="Profile" width="22px" src="https://defold.com/images/logo/others/discord-black.png" />
+  <img align="left" alt="Profile" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" />
 </a>
 <a href="sanchit.jain1412@gmail.com">
-  <img align="left" alt=" Codechef" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
+  <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
 
 
