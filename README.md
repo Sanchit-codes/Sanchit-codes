@@ -19,7 +19,7 @@
 </a>
                   
 
-• [He/Him] \
+\ • [He/Him] \
 • Hello, I am Sanchit Jain 17 y/o from India a Prosperous Country in South Asia. \
   I love to devlop various new things and get a unquie satisfaction after watching the results.\
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
