@@ -30,7 +30,7 @@
 
 
 
-#### - ⚽ A guy who just want to have fun! , 
+#### - ⚽ A guy who just want to Learn stuff! , 
 
 #### - 🍕 Foodie ,
 
