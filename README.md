@@ -17,13 +17,13 @@
 <a href="sanchit.jain1412@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
-
+\
 
 • [He/Him] \
 • Hello, I am Sanchit Jain 17 y/o from India a Prosperous Country in South Asia. \
   I love to devlop various new things and get a unquie satisfaction after watching the results.\
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
-• And ya I am not much active on various platforms including Github for some time.\
+• And ya I am not much active on various platforms including Github for some time.
 
 #### - ⚙ Learning Flutter  <code><img height="20" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>,Swift <code> <img height="20" width="16" src="https://pluralsight2.imgix.net/paths/images/swift-ae81d7c6b0.png"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
 
