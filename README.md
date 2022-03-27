@@ -66,5 +66,5 @@
 ### - WebPage
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+• [Phantom-creates.tech](https://phantom-creates.tech/)
 </p>
