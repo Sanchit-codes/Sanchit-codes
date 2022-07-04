@@ -1,5 +1,4 @@
-### Hi there, I'm [Phantom](https://Phantom-creates.tech/) also known as Sanchit 👋.
-
+# Hi there, I'm Phantom also known as Sanchit 👋.
 
 <br/>
 <a href="https://twitter.com/Sanchit68696170">
@@ -23,8 +22,8 @@
 • Hello, I am Sanchit Jain 17 y/o from India a Prosperous Country in South Asia. \
   I love to develop various new things and get a unquie satisfaction after watching the results.\
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
-• And ya I am not much active on various platforms including Github for some time.
-
+• And ya I am not much active on various platforms including Github for some time. \
+• *[Sanchit.Codes](https://Sanchit.Codes/about/)*
 
 #### - ⚽ A guy who just want to Learn stuff! , 
 
@@ -36,7 +35,6 @@
 
 ### Spotify Playing 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9w0jx8ozqi2gfxclsx1xp7h9c&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/9w0jx8ozqi2gfxclsx1xp7h9c)
 <br />
 
 
@@ -60,8 +58,5 @@
 
 </p>
 
-### - WebPage
 
-
-*• [Sanchit.Codes](https://Sanchit.Codes/about/)*
 
