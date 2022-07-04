@@ -17,7 +17,7 @@ Hi there, I'm Phantom also known as Sanchit 👋.
   <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
 
-                  
+\u200                  
 ### About Me
 • [He/Him] \
 • Hello, I am Sanchit Jain 17 y/o from India a Prosperous Country in South Asia. \
