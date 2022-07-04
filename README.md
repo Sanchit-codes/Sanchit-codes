@@ -33,7 +33,7 @@ Hi there, I'm Phantom also known as Sanchit 👋.
 <img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
 </p>
 
-### Spotify Playing 🎧
+### Spotify playin'
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9w0jx8ozqi2gfxclsx1xp7h9c&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br />
 
