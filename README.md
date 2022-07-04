@@ -16,7 +16,7 @@ Hi there, I'm Phantom also known as Sanchit 👋.
 <a href="sanchit.jain1412@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
-
+\
                   
 ### About Me
 • [He/Him] \
