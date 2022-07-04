@@ -25,10 +25,6 @@
 • I have intrest in MineCraft, Discord, various diffrent games for PC as well as Mobile Phone.\
 • And ya I am not much active on various platforms including Github for some time.
 
-#### - ⚙ Learning Flutter  <code><img height="20" src="https://cdn-images-1.medium.com/max/1200/1*5-aoK8IBmXve5whBQM90GA.png"></code>,Swift <code> <img height="20" width="16" src="https://pluralsight2.imgix.net/paths/images/swift-ae81d7c6b0.png"> </code> & SQL Advanced <code><img height="20" src="https://sqlbak.com/blog/wp-content/uploads/2014/03/sql.png"></code>.
-
-
-
 
 #### - ⚽ A guy who just want to Learn stuff! , 
 
@@ -44,11 +40,10 @@
 
 **I like the following stuff**
 
-**Application Devlopment , Web Development, SEO, API Handeling , System Design,  Linux ,Bot Devlopment**
+**Application Devlopment , Web Development, SEO, API Handeling , System Design, Linux ,Bot Devlopment**
 <br />
 
-
-![Phantom-Codes Github Stats](https://github-readme-stats.vercel.app/api?username=Phantom-Codes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Phantom-codes&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Phantom-Codes&layout=compact&text_color=daf7dc&bg_color=151515)]
 
 <br />
 
@@ -66,5 +61,5 @@
 ### - WebPage
 
 
-*• [Phantom-creates.tech](https://phantom-creates.tech/about/)*
+*• [Sanchit.Codes](https://Sanchit.Codes/about/)*
 
