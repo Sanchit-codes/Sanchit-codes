@@ -25,15 +25,15 @@ Hi there, I'm Phantom also known as Sanchit 👋.
 • And ya I am not much active on various platforms including Github for some time. \
 • *[Sanchit.Codes](https://Sanchit.Codes/about/)*
 
-#### - ⚽ A guy who just want to Learn stuff! , 
+#### ⚽ A guy who just want to Learn stuff! , 
 
-#### - 🍕 Foodie ,
+#### 🍕 Foodie ,
 
-#### - 💬 Wanna talk?<br>
+#### 💬 Wanna talk?<br>
 <img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
 </p>
 
-### Spotify playin'
+#### 💙 Spotify playin'
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9w0jx8ozqi2gfxclsx1xp7h9c&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 <br />
 
