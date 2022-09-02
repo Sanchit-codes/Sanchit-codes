@@ -7,7 +7,7 @@ Hi there, I'm Phantom also known as Sanchit 👋.
 <a href="https://t.me/SanchitCodes">
   <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />
 </a>
-<a href="https://www.instagram.com/ig.phantom___/">
+<a href="https://www.instagram.com/this.sanchit/">
   <img align="left" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://dsc.bio/Phantomxz">
