@@ -19,11 +19,11 @@ Hi there, I'm Phantom also known as Sanchit 👋.
 
 ‎ 
 ### About Me
-• [He/Him] \
-• Hello, I am Sanchit Jain 17 y/o from India a Prosperous Country in South Asia. \
+• [He/Him] 
+• Hello, I am Sanchit Jain 18 y/o from India a Prosperous Country in South Asia. \
 • I love to develop various new things and get a unquie satisfaction after watching the results.\
 • And ya I am not much active on various platforms including Github for some time. \
-• *[Sanchit.Codes](https://Sanchit.Codes/about/)*
+<!--- • *[Sanchit.Codes](https://Sanchit.Codes/about/)* --->
 
 #### ⚽ A guy who just want to Learn stuff! , 
 
