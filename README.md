@@ -1,4 +1,4 @@
-Hi there, I'm Phantom also known as Sanchit 👋.
+Hi there, I'm Sanchit Jain 👋.
 
 <br/>
 <a href="https://twitter.com/Sanchit68696170">
@@ -10,20 +10,20 @@ Hi there, I'm Phantom also known as Sanchit 👋.
 <a href="https://www.instagram.com/this.sanchit/">
   <img align="left" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
-<a href="https://dsc.bio/Phantomxz">
+<a href="https://discords.com/bio/p/sanchit">
   <img align="left" alt="Profile" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" />
 </a>
-<a href="sanchit.jain1412@gmail.com">
+<a href="mailto:sanchit.jain250@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
 </a>
 
 ‎ 
 ### About Me
 • [He/Him] 
-• Hello, I am Sanchit Jain 18 y/o from India a Prosperous Country in South Asia. \
+• Hello, I am Sanchit Jain 19 y/o from India a Prosperous Country in South Asia. \
 • I love to develop various new things and get a unique satisfaction after watching the results.\
 • And ya I am not much active on various platforms including Github for some time. 
-<!--- • *[Sanchit.Codes](https://Sanchit.Codes/about/)* --->
+• *[Sanchit.Codes](https://sanchit.kwin.in/)* 
 
 #### ⚽ A guy who just want to Learn stuff! , 
 
