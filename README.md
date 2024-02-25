@@ -22,7 +22,7 @@ Hi there, I'm Sanchit Jain 👋.
 • [He/Him] 
 • Hello, I am Sanchit Jain 19 y/o from India a Prosperous Country in South Asia. \
 • I love to develop various new things and get a unique satisfaction after watching the results.\
-• And ya I am not much active on various platforms including Github for some time. 
+• And ya I am not much active on various platforms including Github for some time. \
 • *[Sanchit.Codes](https://sanchit.kwin.in/)* 
 
 #### ⚽ A guy who just want to Learn stuff! , 
