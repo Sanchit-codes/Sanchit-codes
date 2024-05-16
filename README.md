@@ -30,7 +30,9 @@ Hi there, I'm Sanchit Jain 👋.
 #### 🍕 Foodie ,
 
 #### 💬 Wanna talk?<br>
-<img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
+<a href="https://discord.com/users/730615970074329142">
+  <img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
+</a>
 </p>
 
 #### 💙 Spotify playin'
