@@ -1,34 +1,28 @@
-Hi there, I'm Sanchit Jain 👋.
+<header align="left">
+  
+![Your paragraph text (5)](https://raw.githubusercontent.com/Sanchit-codes/Sanchit-codes/refs/heads/main/github-header-image.png)
 
-<br/>
-<a href="https://twitter.com/Sanchit68696170">
-  <img align="left" alt="Sanchit Jain| Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
-</a>
-<a href="https://t.me/SanchitCodes">
-  <img align="left" alt="Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1200px-Telegram_logo.svg.png" />
-</a>
-<a href="https://www.instagram.com/this.sanchit/">
-  <img align="left" alt="Instagram" width="22px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
-</a>
-<a href="https://discords.com/bio/p/sanchit">
-  <img align="left" alt="Profile" width="22px" src="https://www.freepnglogos.com/uploads/discord-logo-png/discord-u2013-swiss-geeks-23.png" />
-</a>
-<a href="mailto:sanchit.jain250@gmail.com">
-  <img align="left" alt=" Mail" width="22px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" />
-</a>
+</header>
 
-‎ 
-### About Me
-• [He/Him] 
-• Hello, I am Sanchit Jain 19 y/o from India a Prosperous Country in South Asia. \
-• I love to develop various new things and get a unique satisfaction after watching the results.\
-• And ya I am not much active on various platforms including Github for some time. \
-• *[Sanchit.Codes](https://sanchit.kwin.in/)* 
+<section>  
+  
+### About me ☕
+- Studies Artificial Intelligence at [Madhav Institue of Technology and Science](https://mitsgwl.ac.in/).
+- Occasionally creates sites. Checkout my [Personal site](https://sanchit.kwin.in).
+- Hobbies: reading, driving, and listening to music
+</section>
 
+## 🌐 Socials:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#FF7139)](https://sanchit.kwin.in) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sanchit-codes/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=#FF7139)](https://discord.gg/https://discord.com/users/730615970074329142) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=#FF7139)](https://instagram.com/this.sanchit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139)](https://linkedin.com/in/sanchit-jain-2754502a4) 
+‎
 
 <a href="https://discord.com/users/730615970074329142">
   <img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
 </a>
+
+<br>
+</br>
 
 ![Spotify](https://spotify-readme-gilt.vercel.app/?theme=dark&scan=true)
 
