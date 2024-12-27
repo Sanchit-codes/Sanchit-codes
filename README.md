@@ -4,24 +4,28 @@
 
 </header>
 
-<section>  
+<section> 
   
-### About me ☕
+### About ☕
 - Studies Artificial Intelligence at [Madhav Institue of Technology and Science](https://mitsgwl.ac.in/).
 - Occasionally creates sites. Checkout my [Personal site](https://sanchit.kwin.in).
 - Hobbies: reading, driving, and listening to music
-</section>
+</secti
 
-## 🌐 Socials:
+### Socials 🌐
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=#FF7139)](https://sanchit.kwin.in) [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sanchit-codes/) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=#FF7139)](https://discord.gg/https://discord.com/users/730615970074329142) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=#FF7139)](https://instagram.com/this.sanchit) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139)](https://linkedin.com/in/sanchit-jain-2754502a4) 
 ‎
+<br>
+
+</br>
 
 <a href="https://discord.com/users/730615970074329142">
   <img align="middle" src="https://discord.c99.nl/widget/theme-4/730615970074329142.png">
 </a>
 
 <br>
+
 </br>
 
 ![Spotify](https://spotify-readme-gilt.vercel.app/?theme=dark&scan=true)
@@ -33,7 +37,7 @@
 
   </td>
   <td>
-      <img src="https://github-readme-streak-stats-amber-beta.vercel.app?user=Sanchit-codes&theme=catppuccin-mocha&hide_border=true alt="Github Streak" title="Github Streak"/> 
+      <img src="https://github-readme-streak-stats-amber-beta.vercel.app?user=Sanchit-codes&theme=catppuccin-mocha&hide_border=true" alt="Github Streak" title="Github Streak"/> 
   </td>
 </tr>
 </table>
