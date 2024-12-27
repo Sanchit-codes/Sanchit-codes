@@ -39,7 +39,7 @@ Hi there, I'm Sanchit Jain 👋.
 
   </td>
   <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanchit-codes&theme=catppuccin_mocha&hide_border=false" alt="Github Streak" title="Github Streak"/> 
+      <img src="https://github-readme-streak-stats-amber-beta.vercel.app?user=Sanchit-codes&theme=catppuccin-mocha&hide_border=true alt="Github Streak" title="Github Streak"/> 
   </td>
 </tr>
 </table>
