@@ -34,7 +34,7 @@
 <br>
 <br />
 
-![Spotify](https://spotify-readme-gilt.vercel.app/?theme=dark&scan=true)
+![Spotify](https://spotify-readme-gilt.vercel.app/?theme=dark&scan=true&eq_color=bf91f3)
 
 <table>
 <tr>
