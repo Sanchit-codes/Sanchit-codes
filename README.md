@@ -10,6 +10,7 @@
 - Studies Artificial Intelligence at [Madhav Institue of Technology and Science](https://mitsgwl.ac.in/).
 - Occasionally creates sites. Checkout my [Personal site](https://sanchit.kwin.in).
 - Hobbies: reading, driving, and listening to music
+- Just drop a mail at [sanchit.workspace@outlook](mail.to:sanchit.workspace@outlook.com)
 </secti
 
 ### Socials 🌐
