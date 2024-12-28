@@ -9,7 +9,7 @@
 ### About ☕
 - Studies Artificial Intelligence at [Madhav Institute of Technology and Science](https://mitsgwl.ac.in/).
 - Occasionally creates sites. Check out my [Personal site](https://sanchit.kwin.in).
-- Hobbies: reading, driving, and listening to music
+- Hobbies: reading, driving, and listening to music,
 - Contact: [sanchit.workspace@outlook](mailto:sanchit.workspace@outlook.com)
 </section>
 
