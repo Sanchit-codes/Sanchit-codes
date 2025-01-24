@@ -1,6 +1,6 @@
 <header align="left">
   
-![Header Image](https://i.kwin.in/r/Sanchit-codes(1).png)
+![Header Image](https://i.kwin.in/r/Sanchit-codes.png)
 
 </header>
 
