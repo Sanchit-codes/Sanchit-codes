@@ -21,7 +21,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/sanchit-codes/) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=#FF7139)](https://discord.com/users/730615970074329142) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=#FF7139)](https://instagram.com/this.sanchit) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139)](https://linkedin.com/in/sanchit-jain-2754502a4) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=#FF7139)](https://linkedin.com/in/lnSanchit) 
 
 </section>
 
