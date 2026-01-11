@@ -42,7 +42,7 @@
     <img src="https://gh-cards-three.vercel.app/api/cards/profile-details?username=Sanchit-codes&theme=tokyonight" alt="GitHub Stats" title="GitHub Stats"/>  
   </td>
   <td>
-    <img src="https://github-readme-streak-stats-amber-beta.vercel.app?user=Sanchit-codes&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" title="GitHub Streak"/> 
+    <img src="https://github-readme-streak-eight.vercel.app?user=Sanchit-codes&theme=tokyonight&hide_border=true" alt="GitHub Streak" title="GitHub Streak"/> 
   </td>
 </tr>
 </table>
