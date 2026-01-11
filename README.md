@@ -39,7 +39,7 @@
 <table>
 <tr>
   <td>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanchit-codes&theme=tokyonight" alt="GitHub Stats" title="GitHub Stats"/>  
+    <img src="https://gh-cards-three.vercel.app/api/cards/profile-details?username=Sanchit-codes&theme=tokyonight" alt="GitHub Stats" title="GitHub Stats"/>  
   </td>
   <td>
     <img src="https://github-readme-streak-stats-amber-beta.vercel.app?user=Sanchit-codes&theme=catppuccin-mocha&hide_border=true" alt="GitHub Streak" title="GitHub Streak"/> 
